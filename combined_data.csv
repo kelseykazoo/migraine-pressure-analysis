@@ -1,0 +1,4 @@
+date_time,severity,duration,notes,pressure
+2024-12-20 14:00:00,7,3,Stressful day,1014.0
+2024-12-21 09:00:00,5,2,Low hydration,1014.0
+2024-12-22 18:00:00,8,4,Weather change,1014.0
